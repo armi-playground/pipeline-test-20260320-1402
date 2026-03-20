@@ -1,0 +1,6 @@
+node_modules/
+*.db
+*.db-wal
+*.db-shm
+frontend/node_modules/
+frontend/dist/
